@@ -1,0 +1,27 @@
+{
+  "name": "cakir-mask",
+  "version": "1.0.0",
+  "description": "It is a metamask login module for front end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mertcanaltin/cakir-mask.git"
+  },
+  "keywords": [
+    "metamask",
+    "nft",
+    "web3",
+    "login",
+    "auth",
+    "metaMask"
+  ],
+  "author": "lastcode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mertcanaltin/cakir-mask/issues"
+  },
+  "homepage": "https://github.com/mertcanaltin/cakir-mask#readme"
+}
